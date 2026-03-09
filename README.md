@@ -4,7 +4,7 @@
 
 This project demonstrates the data preparation work that precedes every dashboard I build. Most dashboard failures happen because this step was skipped.
 
-![Pipeline Flow](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/pipeline_flow.png)
+![Pipeline Flow](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/screenshots/pipeline_flow.png)
 ---
 
 ## The Problem
@@ -44,7 +44,7 @@ A 9-stage pipeline that systematically resolves every data quality issue:
 
 ## Results
 
-![Data Quality Comparison](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/quality_comparison.png)
+![Data Quality Comparison](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/screenshots/quality_comparison.png)
 
 | Metric | Value |
 |--------|-------|
@@ -58,7 +58,7 @@ A 9-stage pipeline that systematically resolves every data quality issue:
 
 ### Clean Data Overview
 
-![Clean Data Overview](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/clean_data_overview.png)
+![Clean Data Overview](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/screenshots/clean_data_overview.png)
 
 ---
 
