@@ -1,0 +1,102 @@
+{
+  "initial_row_count": 558,
+  "final_row_count": 499,
+  "duplicates_removed": 56,
+  "invalid_rows_removed": 2,
+  "dates_standardized": 499,
+  "dates_unparseable": 1,
+  "products_standardized": 499,
+  "products_unresolved": 0,
+  "prices_cleaned": 998,
+  "nulls_found": {
+    "order_id": 1,
+    "product_name": 1,
+    "category": 40,
+    "total_amount": 1,
+    "region": 33,
+    "sales_rep": 31,
+    "customer_type": 1,
+    "payment_method": 42,
+    "discount_pct": 95,
+    "notes": 234
+  },
+  "nulls_filled": {},
+  "business_rule_violations": [],
+  "stage_log": [
+    {
+      "stage": "LOAD",
+      "message": "Loaded raw data",
+      "count": 558
+    },
+    {
+      "stage": "LOAD",
+      "message": "Columns: ['order_id', 'order_date', 'product_name', 'category', 'quantity', 'unit_price', 'total_amount', 'region', 'sales_rep', 'customer_type', 'payment_method', 'discount_pct', 'notes']",
+      "count": null
+    },
+    {
+      "stage": "LOAD",
+      "message": "Null/empty values found: {'order_id': 1, 'product_name': 1, 'category': 40, 'total_amount': 1, 'region': 33, 'sales_rep': 31, 'customer_type': 1, 'payment_method': 42, 'discount_pct': 95, 'notes': 234}",
+      "count": null
+    },
+    {
+      "stage": "INVALID",
+      "message": "Removed invalid/test rows",
+      "count": 2
+    },
+    {
+      "stage": "DEDUP",
+      "message": "Exact duplicates removed",
+      "count": 27
+    },
+    {
+      "stage": "DEDUP",
+      "message": "Near-duplicates removed (by order_id)",
+      "count": 29
+    },
+    {
+      "stage": "DATES",
+      "message": "Dates parsed successfully",
+      "count": 499
+    },
+    {
+      "stage": "DATES",
+      "message": "Unparseable/future dates \u2192 rows dropped",
+      "count": 1
+    },
+    {
+      "stage": "PRODUCTS",
+      "message": "Products standardized",
+      "count": 499
+    },
+    {
+      "stage": "PRODUCTS",
+      "message": "Unresolved \u2192 rows dropped",
+      "count": 0
+    },
+    {
+      "stage": "CATEGORICALS",
+      "message": "Regions standardized, remaining nulls: 25",
+      "count": null
+    },
+    {
+      "stage": "CATEGORICALS",
+      "message": "Categories inferred from product names",
+      "count": "34"
+    },
+    {
+      "stage": "CATEGORICALS",
+      "message": "Sales reps standardized, remaining nulls: 28",
+      "count": null
+    },
+    {
+      "stage": "NUMERICS",
+      "message": "Price values cleaned",
+      "count": 998
+    },
+    {
+      "stage": "FINALIZE",
+      "message": "Final clean dataset",
+      "count": 499
+    }
+  ]
+}

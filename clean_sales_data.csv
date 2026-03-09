@@ -1,0 +1,500 @@
+order_id,order_date,product_name,category,quantity,unit_price,total_amount,region,sales_rep,customer_type,payment_method,discount_pct,notes
+ORD-10334,2023-01-01,Whiteboard Markers 12pk,Office Supplies,29,9.66,280.14,East,Aisha Patel,Wholesale,Check,0,VIP client
+ORD-10382,2023-01-01,Monitor Arm Dual,Furniture,36,148.24,5336.64,North,Elena Vasquez,Corporate,Check,20,
+ORD-10249,2023-01-08,USB-C Hub 7-Port,Electronics,3,50.71,152.13,North,James Chen,Corporate,Wire Transfer,0,
+ORD-10292,2023-01-08,Ergonomic Chair X1,Furniture,1,636.58,636.58,East,,Wholesale,Paypal,10,VIP client
+ORD-10317,2023-01-08,Notebook A5 Premium,Office Supplies,19,13.37,254.03,South,Elena Vasquez,Wholesale,Check,0,
+ORD-10320,2023-01-09,Standing Desk L-Shape,Furniture,9,903.81,8134.29,South,Elena Vasquez,Corporate,Check,0,
+ORD-10270,2023-01-10,Printer Paper 5000ct,Office Supplies,49,40.04,1961.96,Central,Carlos Mendez,Online,Paypal,0,
+ORD-10136,2023-01-12,Standing Desk L-Shape,Furniture,38,905.77,34419.26,North,Aisha Patel,Corporate,Net 30,10,
+ORD-10040,2023-01-13,Wireless Mouse M200,Electronics,33,31.32,1033.56,East,Robert Johnson,Wholesale,Paypal,0,VIP client
+ORD-10352,2023-01-16,Ergonomic Chair X1,Furniture,3,582.57,1747.71,North,Robert Johnson,Corporate,Check,0,Customer complaint
+ORD-10144,2023-01-17,Desk Lamp LED,Office Supplies,50,50.89,2544.5,Central,Maria Rodriguez,Retail,Paypal,0,Customer complaint
+ORD-10493,2023-01-17,USB-C Hub 7-Port,Electronics,1,45.35,45.35,South,Carlos Mendez,Wholesale,Credit Card,10,
+ORD-10271,2023-01-26,Standing Desk L-Shape,Furniture,35,906.05,31711.75,East,Carlos Mendez,Retail,Credit Card,0,
+ORD-10476,2023-01-30,USB-C Hub 7-Port,Electronics,27,54.38,1468.26,East,Robert Johnson,Retail,Paypal,0,Return pending
+ORD-10347,2023-01-31,Webcam HD 1080p,Electronics,17,89.08,1514.36,West,Sarah Williams,Corporate,Net 30,5,
+ORD-10368,2023-02-01,Wireless Mouse M200,Electronics,10,28.01,280.1,South,James Chen,Online,Credit Card,10,
+ORD-10443,2023-02-03,Notebook A5 Premium,Office Supplies,3,11.81,35.43,East,James Chen,Retail,Credit Card,0,Backordered
+ORD-10408,2023-02-04,Wireless Mouse M200,Electronics,1,25.56,25.56,West,Sarah Williams,Wholesale,Check,0,
+ORD-10209,2023-02-05,Standing Desk L-Shape,Furniture,29,946.66,27453.14,,Fatima Al-Hassan,Retail,Credit Card,10,
+ORD-10286,2023-02-05,USB-C Hub 7-Port,Electronics,24,51.52,1236.48,West,Robert Johnson,Wholesale,Net 30,0,
+ORD-10238,2023-02-06,Standing Desk L-Shape,Furniture,27,824.7,22266.9,South,Fatima Al-Hassan,Corporate,Check,0,Rush order
+ORD-10246,2023-02-08,Monitor Arm Dual,Furniture,46,135.86,6249.56,North,Maria Rodriguez,Retail,Paypal,0,
+ORD-10409,2023-02-08,Ergonomic Chair X1,Furniture,12,618.86,7426.32,East,Elena Vasquez,Wholesale,Wire Transfer,0,
+ORD-10022,2023-02-10,Standing Desk L-Shape,Furniture,24,950.62,22814.88,East,Elena Vasquez,Wholesale,Wire Transfer,0,Rush order
+ORD-10430,2023-02-11,Keyboard Mechanical,Electronics,8,160.41,1283.28,North,Thomas Brown,Corporate,Check,0,Return pending
+ORD-10202,2023-02-14,USB-C Hub 7-Port,Electronics,46,46.69,2147.74,North,James Chen,Wholesale,Paypal,0,
+ORD-10003,2023-02-16,Desk Lamp LED,Office Supplies,13,47.76,620.88,South,Elena Vasquez,Corporate,Check,0,
+ORD-10251,2023-02-16,Notebook A5 Premium,Office Supplies,48,11.49,551.52,East,Thomas Brown,Retail,Check,15,Rush order
+ORD-10029,2023-02-17,Ergonomic Chair X1,Furniture,13,535.63,6963.19,West,Thomas Brown,Corporate,Paypal,20,Customer complaint
+ORD-10062,2023-02-17,Keyboard Mechanical,Electronics,19,168.14,3194.66,West,Carlos Mendez,Corporate,Net 30,0,Rush order
+ORD-10499,2023-02-18,Standing Desk L-Shape,Furniture,16,774.99,12399.84,South,Maria Rodriguez,Online,,0,Customer complaint
+ORD-10339,2023-02-20,Wireless Mouse M200,Electronics,31,30.63,949.53,Central,Sarah Williams,Corporate,Net 30,5,
+ORD-10474,2023-02-20,Standing Desk L-Shape,Furniture,45,938.61,42237.45,East,Thomas Brown,Retail,Net 30,20,
+ORD-10208,2023-02-21,Wireless Mouse M200,Electronics,3,33.97,101.91,North,Elena Vasquez,Online,Wire Transfer,0,VIP client
+ORD-10338,2023-02-21,Printer Paper 5000ct,Office Supplies,45,32.06,1442.7,North,Elena Vasquez,Corporate,Wire Transfer,0,Return pending
+ORD-10079,2023-02-22,Webcam HD 1080p,Electronics,49,78.14,3828.86,Central,Carlos Mendez,Corporate,Wire Transfer,0,
+ORD-10358,2023-02-22,USB-C Hub 7-Port,Electronics,12,54.03,648.36,South,Sarah Williams,Retail,Net 30,0,
+ORD-10199,2023-02-23,Wireless Mouse M200,Electronics,33,31.55,1041.15,North,Aisha Patel,Online,Credit Card,0,
+ORD-10471,2023-02-23,Whiteboard Markers 12pk,Office Supplies,45,7.29,328.05,North,Carlos Mendez,Online,Check,0,
+ORD-10013,2023-02-25,Notebook A5 Premium,Office Supplies,30,14.41,432.3,West,David Kim,Wholesale,Wire Transfer,5,
+ORD-10355,2023-02-25,USB-C Hub 7-Port,Electronics,28,46.91,1313.48,North,,Wholesale,Net 30,0,
+ORD-10420,2023-02-26,Desk Lamp LED,Office Supplies,22,48.18,1059.96,West,Robert Johnson,Retail,Check,15,Rush order
+ORD-10485,2023-02-26,Laptop Pro 15,Electronics,42,1215.34,51044.28,East,Carlos Mendez,Retail,Credit Card,5,Rush order
+ORD-10145,2023-02-27,Printer Paper 5000ct,Office Supplies,14,37.66,527.24,Central,David Kim,Online,,5,
+ORD-10212,2023-02-27,Standing Desk L-Shape,Furniture,35,929.56,32534.6,South,Carlos Mendez,Online,Check,0,
+ORD-10467,2023-02-27,Notebook A5 Premium,Office Supplies,17,14.4,244.8,Central,Robert Johnson,Wholesale,Check,0,
+ORD-10141,2023-03-03,Keyboard Mechanical,Electronics,5,151.84,759.2,South,Elena Vasquez,Corporate,Paypal,20,
+ORD-10005,2023-03-09,Laptop Pro 15,Electronics,21,1261.44,26490.24,West,Aisha Patel,Wholesale,Net 30,10,
+ORD-10056,2023-03-09,Laptop Pro 15,Electronics,41,1342.45,55040.45,North,James Chen,Retail,Wire Transfer,0,Damaged in transit
+ORD-10362,2023-03-11,Monitor Arm Dual,Furniture,25,145.49,3637.25,West,James Chen,Online,Check,20,Backordered
+ORD-10412,2023-03-14,Laptop Pro 15,Electronics,32,1305.8,41785.6,East,James Chen,Wholesale,,5,
+ORD-10018,2023-03-16,Whiteboard Markers 12pk,Office Supplies,21,9.58,201.18,Central,Fatima Al-Hassan,Wholesale,Check,0,Customer complaint
+ORD-10168,2023-03-17,Keyboard Mechanical,Electronics,28,163.0,4564.0,West,Maria Rodriguez,Retail,Credit Card,5,
+ORD-10273,2023-03-17,Keyboard Mechanical,Electronics,22,129.2,2842.4,East,Elena Vasquez,Corporate,Paypal,15,
+ORD-10413,2023-03-17,Ergonomic Chair X1,Furniture,25,669.33,16733.25,South,Thomas Brown,Wholesale,Paypal,15,
+ORD-10389,2023-03-20,Whiteboard Markers 12pk,Office Supplies,6,7.54,45.24,East,James Chen,Wholesale,Net 30,0,
+ORD-10130,2023-03-22,Laptop Pro 15,Electronics,19,1477.56,28073.64,South,Fatima Al-Hassan,Online,Wire Transfer,0,Customer complaint
+ORD-10107,2023-03-23,Printer Paper 5000ct,Office Supplies,19,33.11,629.09,Central,Elena Vasquez,Corporate,,0,
+ORD-10330,2023-03-23,Laptop Pro 15,Electronics,14,1360.73,19050.22,East,Maria Rodriguez,Online,Net 30,0,
+ORD-10351,2023-03-23,Ergonomic Chair X1,Furniture,44,513.84,22608.96,East,Elena Vasquez,Corporate,Wire Transfer,0,Backordered
+ORD-10017,2023-03-25,Desk Lamp LED,Office Supplies,39,38.79,1512.81,South,David Kim,Online,Paypal,0,Damaged in transit
+ORD-10138,2023-03-25,Webcam HD 1080p,Electronics,49,82.29,4032.21,Central,Maria Rodriguez,Wholesale,Net 30,0,Rush order
+ORD-10223,2023-03-25,USB-C Hub 7-Port,Electronics,41,46.87,1921.67,West,Aisha Patel,Corporate,Wire Transfer,15,
+ORD-10178,2023-03-26,Keyboard Mechanical,Electronics,29,149.48,4334.92,East,,Wholesale,Paypal,0,
+ORD-10163,2023-03-28,Laptop Pro 15,Electronics,19,1266.38,24061.22,South,,Online,Paypal,0,
+ORD-10190,2023-03-28,USB-C Hub 7-Port,Electronics,16,46.65,746.4,North,,Wholesale,Paypal,10,
+ORD-10342,2023-03-29,Ergonomic Chair X1,Furniture,44,576.33,25358.52,East,David Kim,Retail,Check,0,
+ORD-10357,2023-03-29,Keyboard Mechanical,Electronics,29,156.02,4524.58,West,Elena Vasquez,Wholesale,Check,0,Rush order
+ORD-10113,2023-03-30,Printer Paper 5000ct,Office Supplies,9,36.17,325.53,West,James Chen,Online,Credit Card,0,
+ORD-10180,2023-03-31,Standing Desk L-Shape,Furniture,23,941.25,21648.75,Central,Elena Vasquez,Wholesale,Wire Transfer,5,
+ORD-10433,2023-03-31,Standing Desk L-Shape,Furniture,29,944.33,27385.57,East,Elena Vasquez,Corporate,,0,
+ORD-10418,2023-04-03,Standing Desk L-Shape,Furniture,16,886.6,14185.6,West,Thomas Brown,Corporate,Paypal,0,
+ORD-10465,2023-04-03,Notebook A5 Premium,Office Supplies,24,13.66,327.84,North,Fatima Al-Hassan,Online,,0,Customer complaint
+ORD-10078,2023-04-06,Wireless Mouse M200,Electronics,6,32.97,197.82,Central,Thomas Brown,Online,Credit Card,0,
+ORD-10183,2023-04-06,Wireless Mouse M200,Electronics,41,32.64,1338.24,West,David Kim,Retail,Credit Card,0,
+ORD-10290,2023-04-06,Printer Paper 5000ct,Office Supplies,33,37.64,1242.12,West,Elena Vasquez,Retail,Net 30,20,Customer complaint
+ORD-10313,2023-04-08,Ergonomic Chair X1,Furniture,11,580.5,6385.5,West,James Chen,Online,,0,
+ORD-10309,2023-04-09,Standing Desk L-Shape,Furniture,31,935.34,28995.54,East,Fatima Al-Hassan,Online,Credit Card,20,
+ORD-10239,2023-04-10,Webcam HD 1080p,Electronics,36,72.34,2604.24,,,Retail,Wire Transfer,15,Customer complaint
+ORD-10228,2023-04-13,USB-C Hub 7-Port,Electronics,37,51.31,1898.47,West,Elena Vasquez,Corporate,,0,
+ORD-10221,2023-04-14,Desk Lamp LED,Office Supplies,28,40.37,1130.36,Central,Aisha Patel,Wholesale,Credit Card,0,
+ORD-10188,2023-04-15,Ergonomic Chair X1,Furniture,25,525.2,13130.0,West,Sarah Williams,Retail,Net 30,0,
+ORD-10244,2023-04-16,Keyboard Mechanical,Electronics,23,141.53,3255.19,North,Aisha Patel,Corporate,Net 30,15,
+ORD-10257,2023-04-16,Whiteboard Markers 12pk,Office Supplies,48,8.88,426.24,Central,Aisha Patel,Wholesale,Paypal,15,
+ORD-10220,2023-04-18,Laptop Pro 15,Electronics,21,1206.83,25343.43,North,James Chen,Corporate,Credit Card,20,Rush order
+ORD-10030,2023-04-20,USB-C Hub 7-Port,Electronics,42,52.8,2217.6,Central,James Chen,Wholesale,Paypal,15,
+ORD-10325,2023-04-20,Webcam HD 1080p,Electronics,10,84.82,848.2,East,,Corporate,Check,0,VIP client
+ORD-10363,2023-04-22,Keyboard Mechanical,Electronics,14,155.03,2170.42,Central,Aisha Patel,Online,Check,15,
+ORD-10134,2023-04-26,Printer Paper 5000ct,Office Supplies,30,32.61,978.3,South,David Kim,Wholesale,Wire Transfer,0,
+ORD-10494,2023-04-30,USB-C Hub 7-Port,Electronics,31,48.82,1513.42,,Robert Johnson,Wholesale,,10,
+ORD-10196,2023-05-01,Keyboard Mechanical,Electronics,50,166.79,8339.5,Central,Aisha Patel,Retail,Paypal,0,
+ORD-10248,2023-05-01,Wireless Mouse M200,Electronics,33,31.96,1054.68,Central,Aisha Patel,Wholesale,Check,20,Damaged in transit
+ORD-10072,2023-05-06,Notebook A5 Premium,Office Supplies,18,11.78,212.04,North,Carlos Mendez,Wholesale,Credit Card,5,Backordered
+ORD-10182,2023-05-16,Standing Desk L-Shape,Furniture,42,753.97,31666.74,West,Sarah Williams,Online,Paypal,20,
+ORD-10187,2023-05-16,Laptop Pro 15,Electronics,14,1290.94,18073.16,North,David Kim,Corporate,Wire Transfer,0,
+ORD-10308,2023-05-18,Laptop Pro 15,Electronics,12,1269.38,15232.56,Central,Maria Rodriguez,Retail,,0,Backordered
+ORD-10315,2023-05-19,Printer Paper 5000ct,Office Supplies,18,35.5,639.0,Central,David Kim,Wholesale,Credit Card,0,Damaged in transit
+ORD-10095,2023-05-21,Whiteboard Markers 12pk,Office Supplies,13,7.79,101.27,Central,David Kim,Wholesale,Net 30,20,
+ORD-10006,2023-05-22,Desk Lamp LED,Office Supplies,26,43.14,1121.64,South,Sarah Williams,Corporate,Net 30,0,
+ORD-10119,2023-05-25,Wireless Mouse M200,Electronics,18,29.54,531.72,South,Thomas Brown,Online,Wire Transfer,0,
+ORD-10442,2023-05-26,Ergonomic Chair X1,Furniture,9,663.12,5968.08,South,Elena Vasquez,Retail,Credit Card,0,
+ORD-10123,2023-05-28,Monitor Arm Dual,Furniture,36,147.11,5295.96,North,,Corporate,Wire Transfer,0,Return pending
+ORD-10151,2023-05-30,Laptop Pro 15,Electronics,37,1441.98,53353.26,East,Carlos Mendez,Wholesale,Paypal,5,
+ORD-10321,2023-05-30,Monitor Arm Dual,Furniture,6,143.39,860.34,South,Elena Vasquez,Retail,Wire Transfer,20,
+ORD-10482,2023-06-01,Whiteboard Markers 12pk,Office Supplies,8,9.37,74.96,South,Fatima Al-Hassan,Wholesale,Net 30,0,Rush order
+ORD-10198,2023-06-03,Whiteboard Markers 12pk,Office Supplies,24,8.19,196.56,East,Elena Vasquez,Online,,0,
+ORD-10424,2023-06-04,Wireless Mouse M200,Electronics,45,26.82,1206.9,West,Fatima Al-Hassan,Corporate,,20,
+ORD-10189,2023-06-05,Monitor Arm Dual,Furniture,47,118.8,5583.6,North,Sarah Williams,Corporate,Check,20,Return pending
+ORD-10161,2023-06-07,Keyboard Mechanical,Electronics,5,131.18,655.9,East,James Chen,Retail,Check,0,
+ORD-10222,2023-06-07,Desk Lamp LED,Office Supplies,36,49.59,1785.24,East,Thomas Brown,Wholesale,Credit Card,0,Backordered
+ORD-10268,2023-06-08,Monitor Arm Dual,Furniture,30,138.17,4145.1,East,Thomas Brown,Online,Credit Card,15,Customer complaint
+ORD-10429,2023-06-09,USB-C Hub 7-Port,Electronics,30,56.41,1692.3,West,Thomas Brown,Wholesale,Net 30,0,Return pending
+ORD-10349,2023-06-11,USB-C Hub 7-Port,Electronics,42,56.48,2372.16,South,Sarah Williams,Retail,Check,20,
+ORD-10092,2023-06-12,Whiteboard Markers 12pk,Office Supplies,34,8.55,290.7,East,,Online,Credit Card,15,
+ORD-10204,2023-06-18,Desk Lamp LED,Office Supplies,7,40.35,282.45,Central,Carlos Mendez,Online,Paypal,10,
+ORD-10259,2023-06-18,Keyboard Mechanical,Electronics,6,129.55,777.3,East,Carlos Mendez,Retail,,5,
+ORD-10010,2023-06-19,Webcam HD 1080p,Electronics,31,90.71,2812.01,Central,Carlos Mendez,Online,Paypal,15,
+ORD-10035,2023-06-19,Webcam HD 1080p,Electronics,44,87.14,3834.16,Central,Maria Rodriguez,Corporate,Wire Transfer,0,Rush order
+ORD-10197,2023-06-20,Laptop Pro 15,Electronics,32,1440.14,46084.48,North,Fatima Al-Hassan,Retail,,5,
+ORD-10038,2023-06-21,Keyboard Mechanical,Electronics,17,162.0,2754.0,East,Thomas Brown,Online,Net 30,20,
+ORD-10226,2023-06-21,Wireless Mouse M200,Electronics,49,29.53,1446.97,North,Elena Vasquez,Wholesale,Net 30,10,Return pending
+ORD-10311,2023-06-21,Whiteboard Markers 12pk,Office Supplies,41,9.65,395.65,North,David Kim,Online,Check,10,VIP client
+ORD-10391,2023-06-21,Webcam HD 1080p,Electronics,29,85.41,2476.89,East,Maria Rodriguez,Corporate,,0,Damaged in transit
+ORD-10445,2023-06-25,Keyboard Mechanical,Electronics,13,170.88,2221.44,Central,Robert Johnson,Wholesale,Paypal,0,Rush order
+ORD-10405,2023-06-26,Keyboard Mechanical,Electronics,42,133.37,5601.54,Central,,Retail,Credit Card,0,Customer complaint
+ORD-10104,2023-06-29,Printer Paper 5000ct,Office Supplies,22,38.28,842.16,South,Robert Johnson,Online,Wire Transfer,0,Backordered
+ORD-10195,2023-06-29,Standing Desk L-Shape,Furniture,43,910.56,39154.08,South,David Kim,Online,Wire Transfer,15,
+ORD-10216,2023-06-29,Ergonomic Chair X1,Furniture,43,614.98,26444.14,South,Maria Rodriguez,Corporate,Net 30,0,Rush order
+ORD-10233,2023-07-01,Monitor Arm Dual,Furniture,32,133.66,4277.12,East,James Chen,Retail,Paypal,0,Rush order
+ORD-10274,2023-07-01,Notebook A5 Premium,Office Supplies,44,11.5,506.0,North,Fatima Al-Hassan,Online,Check,0,Damaged in transit
+ORD-10361,2023-07-02,Wireless Mouse M200,Electronics,4,26.47,105.88,Central,Robert Johnson,Online,Credit Card,0,Damaged in transit
+ORD-10158,2023-07-03,Printer Paper 5000ct,Office Supplies,37,36.65,1356.05,West,Aisha Patel,Wholesale,Net 30,20,Return pending
+ORD-10356,2023-07-03,Notebook A5 Premium,Office Supplies,21,12.8,268.8,North,David Kim,Wholesale,Credit Card,0,
+ORD-10042,2023-07-06,Laptop Pro 15,Electronics,32,1436.86,45979.52,East,Aisha Patel,Retail,Net 30,5,
+ORD-10473,2023-07-06,Ergonomic Chair X1,Furniture,6,583.64,3501.84,North,Thomas Brown,Wholesale,Credit Card,0,Backordered
+ORD-10047,2023-07-08,Whiteboard Markers 12pk,Office Supplies,31,8.34,258.54,North,Robert Johnson,Retail,Wire Transfer,0,Damaged in transit
+ORD-10156,2023-07-09,Monitor Arm Dual,Furniture,26,128.39,3338.14,North,Elena Vasquez,Corporate,Credit Card,0,Rush order
+ORD-10162,2023-07-11,Standing Desk L-Shape,Furniture,7,755.4,5287.8,North,David Kim,Retail,Net 30,15,
+ORD-10461,2023-07-11,Webcam HD 1080p,Electronics,46,80.38,3697.48,Central,Elena Vasquez,Retail,Net 30,5,
+ORD-10491,2023-07-11,Desk Lamp LED,Office Supplies,17,42.86,728.62,West,Maria Rodriguez,Corporate,Credit Card,0,Rush order
+ORD-10213,2023-07-12,Desk Lamp LED,Office Supplies,37,40.17,1486.29,West,James Chen,Wholesale,Net 30,5,
+ORD-10425,2023-07-13,Keyboard Mechanical,Electronics,42,128.46,5395.32,Central,David Kim,Corporate,Paypal,10,
+ORD-10329,2023-07-16,Laptop Pro 15,Electronics,13,1146.74,14907.62,Central,Thomas Brown,Retail,Check,5,
+ORD-10097,2023-07-18,Standing Desk L-Shape,Furniture,31,951.89,29508.59,East,Fatima Al-Hassan,Corporate,Wire Transfer,5,
+ORD-10310,2023-07-23,Monitor Arm Dual,Furniture,44,148.05,6514.2,East,Fatima Al-Hassan,Corporate,Credit Card,20,Damaged in transit
+ORD-10322,2023-07-23,Ergonomic Chair X1,Furniture,48,687.87,33017.76,West,Aisha Patel,Wholesale,Credit Card,0,VIP client
+ORD-10449,2023-07-23,Keyboard Mechanical,Electronics,11,130.4,1434.4,South,Robert Johnson,Online,Paypal,15,
+ORD-10132,2023-07-24,Webcam HD 1080p,Electronics,31,79.45,2462.95,North,Thomas Brown,Retail,Wire Transfer,20,Rush order
+ORD-10067,2023-07-25,Monitor Arm Dual,Furniture,48,126.69,6081.12,South,Robert Johnson,Online,Credit Card,0,
+ORD-10298,2023-07-25,Webcam HD 1080p,Electronics,26,77.72,2020.72,Central,Fatima Al-Hassan,Online,Check,10,Customer complaint
+ORD-10398,2023-07-25,USB-C Hub 7-Port,Electronics,29,43.53,1262.37,South,Elena Vasquez,Retail,Paypal,10,
+ORD-10171,2023-07-31,Monitor Arm Dual,Furniture,19,123.87,2353.53,West,Robert Johnson,Retail,Check,0,
+ORD-10036,2023-08-05,Laptop Pro 15,Electronics,17,1252.84,21298.28,West,James Chen,Retail,Net 30,0,
+ORD-10200,2023-08-11,Monitor Arm Dual,Furniture,13,121.86,1584.18,Central,Carlos Mendez,Wholesale,Wire Transfer,0,
+ORD-10301,2023-08-14,Wireless Mouse M200,Electronics,25,31.19,779.75,,Fatima Al-Hassan,Online,Wire Transfer,10,
+ORD-10137,2023-08-15,Webcam HD 1080p,Electronics,19,76.81,1459.39,Central,,Corporate,Net 30,5,Customer complaint
+ORD-10234,2023-08-15,Desk Lamp LED,Office Supplies,50,51.28,2564.0,West,Maria Rodriguez,Retail,Paypal,0,Rush order
+ORD-10011,2023-08-19,Printer Paper 5000ct,Office Supplies,29,31.01,899.29,North,Maria Rodriguez,Retail,,15,
+ORD-10426,2023-08-21,Standing Desk L-Shape,Furniture,11,922.68,10149.48,East,Robert Johnson,Wholesale,Net 30,10,Rush order
+ORD-10024,2023-08-22,Whiteboard Markers 12pk,Office Supplies,23,7.99,183.77,East,James Chen,Online,Net 30,20,Return pending
+ORD-10069,2023-08-28,Webcam HD 1080p,Electronics,24,70.59,1694.16,North,Robert Johnson,Online,Paypal,0,
+ORD-10203,2023-08-31,Notebook A5 Premium,Office Supplies,43,14.8,636.4,East,Robert Johnson,Wholesale,Credit Card,5,
+ORD-10463,2023-09-02,Webcam HD 1080p,Electronics,39,73.66,2872.74,East,Robert Johnson,Corporate,Paypal,0,Backordered
+ORD-10191,2023-09-04,Ergonomic Chair X1,Furniture,32,578.49,18511.68,North,David Kim,Corporate,Net 30,20,
+ORD-10354,2023-09-09,Whiteboard Markers 12pk,Office Supplies,3,9.45,28.35,North,Aisha Patel,Corporate,Check,10,
+ORD-10416,2023-09-10,Standing Desk L-Shape,Furniture,1,907.59,907.59,Central,Elena Vasquez,Retail,Paypal,0,
+ORD-10110,2023-09-13,Notebook A5 Premium,Office Supplies,21,13.57,284.97,Central,Fatima Al-Hassan,Online,Check,0,Backordered
+ORD-10232,2023-09-13,Ergonomic Chair X1,Furniture,13,659.55,8574.15,East,Robert Johnson,Corporate,Credit Card,0,Customer complaint
+ORD-10066,2023-09-14,Ergonomic Chair X1,Furniture,41,543.32,22276.12,North,Robert Johnson,Online,Wire Transfer,0,Damaged in transit
+ORD-10186,2023-09-14,Standing Desk L-Shape,Furniture,6,888.37,5330.22,West,Aisha Patel,Wholesale,Paypal,0,
+ORD-10399,2023-09-14,Laptop Pro 15,Electronics,5,1132.45,5662.25,North,Elena Vasquez,Wholesale,Check,0,
+ORD-10093,2023-09-16,Printer Paper 5000ct,Office Supplies,44,33.8,1487.2,North,Sarah Williams,Online,Paypal,0,
+ORD-10103,2023-09-17,Webcam HD 1080p,Electronics,25,91.53,2288.25,South,James Chen,Online,Wire Transfer,0,
+ORD-10250,2023-09-20,Keyboard Mechanical,Electronics,47,132.05,6206.35,West,James Chen,Retail,Check,15,Return pending
+ORD-10464,2023-09-22,USB-C Hub 7-Port,Electronics,18,44.54,801.72,,Maria Rodriguez,Online,Net 30,10,
+ORD-10025,2023-09-25,Laptop Pro 15,Electronics,8,1447.03,11576.24,East,Thomas Brown,Retail,Paypal,5,VIP client
+ORD-10008,2023-09-27,Laptop Pro 15,Electronics,47,1446.57,67988.79,,Carlos Mendez,Online,Wire Transfer,0,Return pending
+ORD-10224,2023-09-27,Monitor Arm Dual,Furniture,12,127.88,1534.56,Central,Sarah Williams,Retail,Credit Card,15,
+ORD-10480,2023-09-28,Standing Desk L-Shape,Furniture,40,932.95,37318.0,West,Fatima Al-Hassan,Corporate,Credit Card,5,
+ORD-10303,2023-09-29,Ergonomic Chair X1,Furniture,48,552.65,26527.2,North,,Corporate,Net 30,0,
+ORD-10457,2023-10-01,Desk Lamp LED,Office Supplies,33,50.42,1663.86,West,Elena Vasquez,Retail,,0,Backordered
+ORD-10306,2023-10-03,USB-C Hub 7-Port,Electronics,36,46.43,1671.48,West,,Online,Check,20,VIP client
+ORD-10074,2023-10-05,Laptop Pro 15,Electronics,12,1208.48,14501.76,West,David Kim,Retail,,5,
+ORD-10373,2023-10-05,Printer Paper 5000ct,Office Supplies,23,35.51,816.73,North,,Corporate,Credit Card,0,
+ORD-10083,2023-10-07,Whiteboard Markers 12pk,Office Supplies,39,8.34,325.26,North,Thomas Brown,Online,Credit Card,5,
+ORD-10133,2023-10-07,Laptop Pro 15,Electronics,26,1412.29,36719.54,Central,James Chen,Online,Paypal,0,
+ORD-10262,2023-10-08,Desk Lamp LED,Office Supplies,45,48.54,2184.3,South,Thomas Brown,Online,Net 30,15,Backordered
+ORD-10000,2023-10-09,Webcam HD 1080p,Electronics,8,68.59,548.72,West,Maria Rodriguez,Wholesale,Wire Transfer,0,Backordered
+ORD-10076,2023-10-09,Desk Lamp LED,Office Supplies,10,39.14,391.4,Central,Aisha Patel,Corporate,Credit Card,0,Backordered
+ORD-10422,2023-10-11,Standing Desk L-Shape,Furniture,33,894.9,29531.7,,Fatima Al-Hassan,Corporate,Net 30,10,
+ORD-10053,2023-10-12,Whiteboard Markers 12pk,Office Supplies,34,8.88,301.92,West,Elena Vasquez,Online,Credit Card,0,Return pending
+ORD-10080,2023-10-13,Printer Paper 5000ct,Office Supplies,25,30.95,773.75,,Fatima Al-Hassan,Online,Credit Card,0,VIP client
+ORD-10071,2023-10-14,Desk Lamp LED,Office Supplies,27,50.93,1375.11,West,David Kim,Online,Net 30,15,
+ORD-10498,2023-10-17,Whiteboard Markers 12pk,Office Supplies,11,8.8,96.8,South,Sarah Williams,Corporate,Credit Card,20,
+ORD-10278,2023-10-19,Webcam HD 1080p,Electronics,42,73.62,3092.04,West,Thomas Brown,Online,Net 30,0,
+ORD-10032,2023-10-20,Standing Desk L-Shape,Furniture,29,741.39,21500.31,South,Elena Vasquez,Wholesale,Wire Transfer,0,
+ORD-10121,2023-10-20,Desk Lamp LED,Office Supplies,42,47.33,1987.86,South,David Kim,Online,Credit Card,20,
+ORD-10435,2023-10-24,Ergonomic Chair X1,Furniture,12,658.71,7904.52,Central,Robert Johnson,Retail,Credit Card,0,VIP client
+ORD-10263,2023-10-25,Ergonomic Chair X1,Furniture,14,621.31,8698.34,Central,David Kim,Retail,Check,0,
+ORD-10265,2023-10-30,USB-C Hub 7-Port,Electronics,4,52.85,211.4,North,Fatima Al-Hassan,Corporate,Wire Transfer,10,
+ORD-10415,2023-10-30,USB-C Hub 7-Port,Electronics,49,47.64,2334.36,South,Elena Vasquez,Corporate,Wire Transfer,0,
+ORD-10164,2023-11-03,USB-C Hub 7-Port,Electronics,28,46.63,1305.64,West,Thomas Brown,Corporate,Credit Card,0,Damaged in transit
+ORD-10084,2023-11-05,Desk Lamp LED,Office Supplies,4,38.35,153.4,East,,Corporate,Wire Transfer,0,
+ORD-10101,2023-11-05,Wireless Mouse M200,Electronics,50,28.08,1404.0,North,Thomas Brown,Retail,Net 30,5,
+ORD-10316,2023-11-07,Monitor Arm Dual,Furniture,27,120.62,3256.74,East,,Corporate,Paypal,10,
+ORD-10205,2023-11-08,Wireless Mouse M200,Electronics,11,32.76,360.36,South,Carlos Mendez,Corporate,Net 30,0,Damaged in transit
+ORD-10336,2023-11-08,Wireless Mouse M200,Electronics,37,29.09,1076.33,South,Thomas Brown,Online,Credit Card,20,
+ORD-10314,2023-11-09,Webcam HD 1080p,Electronics,25,75.42,1885.5,Central,Maria Rodriguez,Online,Check,0,
+ORD-10346,2023-11-09,Laptop Pro 15,Electronics,16,1464.67,23434.72,,David Kim,Online,Wire Transfer,10,
+ORD-10051,2023-11-11,Wireless Mouse M200,Electronics,4,26.98,107.92,North,Aisha Patel,Corporate,Check,0,
+ORD-10120,2023-11-12,Printer Paper 5000ct,Office Supplies,30,34.98,1049.4,South,Thomas Brown,Retail,Credit Card,10,
+ORD-10468,2023-11-12,Whiteboard Markers 12pk,Office Supplies,46,8.15,374.9,South,Fatima Al-Hassan,Online,Check,0,Customer complaint
+ORD-10348,2023-11-16,Ergonomic Chair X1,Furniture,37,536.6,19854.2,Central,Carlos Mendez,Online,Net 30,0,
+ORD-10118,2023-11-17,Ergonomic Chair X1,Furniture,22,618.17,13599.74,South,Fatima Al-Hassan,Retail,Check,5,
+ORD-10242,2023-11-17,Monitor Arm Dual,Furniture,41,148.97,6107.77,South,Thomas Brown,Corporate,Credit Card,0,
+ORD-10279,2023-11-17,Monitor Arm Dual,Furniture,28,117.07,3277.96,East,David Kim,Corporate,Paypal,15,Damaged in transit
+ORD-10466,2023-11-17,Desk Lamp LED,Office Supplies,9,48.69,438.21,West,Sarah Williams,Wholesale,Wire Transfer,10,
+ORD-10254,2023-11-18,Laptop Pro 15,Electronics,5,1207.02,6035.1,Central,Elena Vasquez,Wholesale,Paypal,15,
+ORD-10372,2023-11-23,Ergonomic Chair X1,Furniture,19,558.86,10618.34,South,Aisha Patel,Retail,Net 30,0,Backordered
+ORD-10028,2023-11-26,Notebook A5 Premium,Office Supplies,38,13.41,509.58,South,James Chen,Online,Credit Card,5,Damaged in transit
+ORD-10284,2023-11-28,Laptop Pro 15,Electronics,3,1487.42,4462.26,South,Elena Vasquez,Retail,Net 30,10,
+ORD-10082,2023-11-29,Monitor Arm Dual,Furniture,11,124.92,1374.12,South,Thomas Brown,Retail,Check,0,
+ORD-10333,2023-11-29,Monitor Arm Dual,Furniture,36,149.16,5369.76,Central,Thomas Brown,Wholesale,Paypal,0,
+ORD-10379,2023-11-30,Wireless Mouse M200,Electronics,38,30.85,1172.3,West,Thomas Brown,Corporate,Check,0,
+ORD-10094,2023-12-03,Standing Desk L-Shape,Furniture,36,817.59,29433.24,Central,Maria Rodriguez,Online,Wire Transfer,5,Return pending
+ORD-10185,2023-12-04,Webcam HD 1080p,Electronics,49,69.15,3388.35,West,Maria Rodriguez,Wholesale,Wire Transfer,10,Rush order
+ORD-10240,2023-12-06,Keyboard Mechanical,Electronics,20,146.41,2928.2,North,Maria Rodriguez,Retail,Paypal,5,
+ORD-10258,2023-12-06,Laptop Pro 15,Electronics,15,1434.27,21514.05,North,Carlos Mendez,Online,Check,10,
+ORD-10023,2023-12-07,Notebook A5 Premium,Office Supplies,2,11.74,23.48,South,James Chen,Retail,Paypal,5,Backordered
+ORD-10149,2023-12-07,Whiteboard Markers 12pk,Office Supplies,14,9.43,132.02,West,Thomas Brown,Wholesale,Paypal,5,Return pending
+ORD-10365,2023-12-08,Desk Lamp LED,Office Supplies,27,43.84,1183.68,South,Aisha Patel,Retail,Check,10,Return pending
+ORD-10218,2023-12-10,Keyboard Mechanical,Electronics,43,156.25,6718.75,North,Aisha Patel,Retail,Credit Card,20,
+ORD-10152,2023-12-12,Printer Paper 5000ct,Office Supplies,42,39.65,1665.3,South,David Kim,Wholesale,Net 30,0,Rush order
+ORD-10081,2023-12-14,Keyboard Mechanical,Electronics,49,141.39,6928.11,North,Maria Rodriguez,Wholesale,Paypal,0,
+ORD-10366,2023-12-16,Laptop Pro 15,Electronics,8,1372.47,10979.76,East,Robert Johnson,Retail,Wire Transfer,0,
+ORD-10128,2023-12-17,USB-C Hub 7-Port,Electronics,30,56.17,1685.1,South,Fatima Al-Hassan,Wholesale,Check,10,Backordered
+ORD-10302,2023-12-17,Notebook A5 Premium,Office Supplies,44,13.96,614.24,East,Thomas Brown,Wholesale,Wire Transfer,0,Backordered
+ORD-10020,2023-12-18,Standing Desk L-Shape,Furniture,39,775.3,30236.7,North,Elena Vasquez,Retail,Credit Card,15,
+ORD-10341,2023-12-19,Monitor Arm Dual,Furniture,23,117.92,2712.16,East,Robert Johnson,Wholesale,Paypal,0,Customer complaint
+ORD-10285,2023-12-20,Ergonomic Chair X1,Furniture,34,582.08,19790.72,West,Carlos Mendez,Online,,0,Rush order
+ORD-10377,2023-12-23,Whiteboard Markers 12pk,Office Supplies,11,7.94,87.34,East,James Chen,Corporate,Paypal,20,Customer complaint
+ORD-10444,2023-12-26,Desk Lamp LED,Office Supplies,13,40.74,529.62,South,Thomas Brown,Retail,Credit Card,0,Backordered
+ORD-10102,2023-12-28,Standing Desk L-Shape,Furniture,28,722.05,20217.4,Central,James Chen,Retail,Paypal,0,
+ORD-10002,2024-01-03,Wireless Mouse M200,Electronics,6,28.91,173.46,,James Chen,Retail,Net 30,10,
+ORD-10414,2024-01-03,Whiteboard Markers 12pk,Office Supplies,47,7.71,362.37,Central,Aisha Patel,Retail,Paypal,0,
+ORD-10323,2024-01-05,Whiteboard Markers 12pk,Office Supplies,41,7.98,327.18,,Maria Rodriguez,Online,Net 30,0,
+ORD-10055,2024-01-06,Notebook A5 Premium,Office Supplies,4,11.77,47.08,,Fatima Al-Hassan,Online,Paypal,0,
+ORD-10009,2024-01-07,Whiteboard Markers 12pk,Office Supplies,2,7.5,15.0,Central,James Chen,Corporate,Credit Card,0,
+ORD-10376,2024-01-08,USB-C Hub 7-Port,Electronics,40,46.36,1854.4,West,Maria Rodriguez,Corporate,Credit Card,15,
+ORD-10411,2024-01-08,Webcam HD 1080p,Electronics,3,69.29,207.87,Central,Maria Rodriguez,Retail,Net 30,0,Rush order
+ORD-10455,2024-01-11,Laptop Pro 15,Electronics,38,1122.59,42658.42,North,David Kim,Corporate,Check,0,Customer complaint
+ORD-10098,2024-01-16,Standing Desk L-Shape,Furniture,4,884.96,3539.84,North,Aisha Patel,Wholesale,Paypal,0,Customer complaint
+ORD-10369,2024-01-16,Wireless Mouse M200,Electronics,32,33.38,1068.16,East,Carlos Mendez,Corporate,Net 30,0,
+ORD-10289,2024-01-23,Desk Lamp LED,Office Supplies,38,39.18,1488.84,Central,Elena Vasquez,Retail,Wire Transfer,0,
+ORD-10126,2024-01-25,Printer Paper 5000ct,Office Supplies,41,37.31,1529.71,North,Maria Rodriguez,Online,Paypal,0,
+ORD-10345,2024-01-25,Webcam HD 1080p,Electronics,25,73.54,1838.5,Central,James Chen,Wholesale,Net 30,0,
+ORD-10478,2024-01-26,Laptop Pro 15,Electronics,17,1301.76,22129.92,Central,Thomas Brown,Online,Wire Transfer,0,Return pending
+ORD-10063,2024-01-27,USB-C Hub 7-Port,Electronics,6,51.63,309.78,West,Aisha Patel,Online,,0,Damaged in transit
+ORD-10374,2024-01-28,Whiteboard Markers 12pk,Office Supplies,44,7.35,323.4,Central,Robert Johnson,Online,Check,15,Backordered
+ORD-10296,2024-01-29,Monitor Arm Dual,Furniture,6,134.24,805.44,South,Robert Johnson,Retail,,10,Backordered
+ORD-10447,2024-01-30,Wireless Mouse M200,Electronics,21,29.93,628.53,South,Elena Vasquez,Corporate,Wire Transfer,0,
+ORD-10106,2024-01-31,Notebook A5 Premium,Office Supplies,26,13.94,362.44,Central,James Chen,Corporate,Credit Card,20,Rush order
+ORD-10225,2024-02-01,Desk Lamp LED,Office Supplies,15,45.72,685.8,Central,Robert Johnson,Retail,Paypal,0,
+ORD-10487,2024-02-02,Printer Paper 5000ct,Office Supplies,13,34.88,453.44,East,Sarah Williams,Corporate,Credit Card,0,Return pending
+ORD-10015,2024-02-04,Laptop Pro 15,Electronics,11,1252.79,13780.69,West,Carlos Mendez,Wholesale,Credit Card,0,Return pending
+ORD-10469,2024-02-07,Whiteboard Markers 12pk,Office Supplies,25,7.24,181.0,South,Robert Johnson,Online,Paypal,0,VIP client
+ORD-10276,2024-02-08,Laptop Pro 15,Electronics,1,1328.35,1328.35,South,Fatima Al-Hassan,Wholesale,Wire Transfer,5,VIP client
+ORD-10173,2024-02-10,USB-C Hub 7-Port,Electronics,41,52.35,2146.35,Central,,Wholesale,Wire Transfer,10,
+ORD-10215,2024-02-10,Monitor Arm Dual,Furniture,46,147.22,6772.12,South,Elena Vasquez,Corporate,Check,0,
+ORD-10282,2024-02-11,Whiteboard Markers 12pk,Office Supplies,33,8.52,281.16,Central,Robert Johnson,Wholesale,Net 30,0,
+ORD-10087,2024-02-15,Wireless Mouse M200,Electronics,16,29.41,470.56,South,Sarah Williams,Retail,Net 30,0,
+ORD-10299,2024-02-18,Desk Lamp LED,Office Supplies,13,44.39,577.07,Central,Fatima Al-Hassan,Online,Check,0,VIP client
+ORD-10206,2024-02-19,Standing Desk L-Shape,Furniture,12,729.57,8754.84,North,James Chen,Retail,Wire Transfer,0,Backordered
+ORD-10492,2024-02-19,Webcam HD 1080p,Electronics,31,79.03,2449.93,Central,David Kim,Corporate,Check,0,
+ORD-10231,2024-02-21,Whiteboard Markers 12pk,Office Supplies,14,9.54,133.56,Central,James Chen,Corporate,Wire Transfer,0,Rush order
+ORD-10059,2024-02-25,Desk Lamp LED,Office Supplies,25,41.4,1035.0,West,Sarah Williams,Retail,Wire Transfer,15,
+ORD-10077,2024-02-28,Notebook A5 Premium,Office Supplies,29,14.5,420.5,East,David Kim,Online,,0,
+ORD-10219,2024-02-28,Keyboard Mechanical,Electronics,27,171.1,4619.7,Central,Carlos Mendez,Corporate,Credit Card,0,Damaged in transit
+ORD-10241,2024-02-28,Webcam HD 1080p,Electronics,25,80.71,2017.75,West,Robert Johnson,Online,Wire Transfer,0,
+ORD-10099,2024-02-29,Whiteboard Markers 12pk,Office Supplies,23,9.59,220.57,West,David Kim,Retail,Check,0,Return pending
+ORD-10260,2024-02-29,Ergonomic Chair X1,Furniture,46,569.88,26214.48,West,Thomas Brown,Wholesale,Paypal,0,
+ORD-10033,2024-03-01,Notebook A5 Premium,Office Supplies,22,13.16,289.52,Central,Maria Rodriguez,Corporate,Paypal,0,
+ORD-10048,2024-03-02,Wireless Mouse M200,Electronics,16,26.56,424.96,West,Thomas Brown,Online,Net 30,0,
+ORD-10176,2024-03-04,Keyboard Mechanical,Electronics,10,150.48,1504.8,South,Fatima Al-Hassan,Wholesale,Net 30,0,
+ORD-10034,2024-03-05,Standing Desk L-Shape,Furniture,49,820.98,40228.02,West,Aisha Patel,Corporate,Credit Card,20,Return pending
+ORD-10496,2024-03-08,Keyboard Mechanical,Electronics,4,151.26,605.04,West,James Chen,Online,Paypal,20,
+ORD-10388,2024-03-09,Standing Desk L-Shape,Furniture,11,730.65,8037.15,Central,Thomas Brown,Online,Net 30,0,Damaged in transit
+ORD-10143,2024-03-10,Whiteboard Markers 12pk,Office Supplies,44,9.05,398.2,West,Sarah Williams,Wholesale,Credit Card,0,
+ORD-10385,2024-03-10,Notebook A5 Premium,Office Supplies,23,11.92,274.16,Central,Elena Vasquez,Online,Credit Card,0,
+ORD-10031,2024-03-12,Desk Lamp LED,Office Supplies,47,50.29,2363.63,West,Carlos Mendez,Online,Net 30,0,Customer complaint
+ORD-10488,2024-03-12,Whiteboard Markers 12pk,Office Supplies,44,7.79,342.76,West,James Chen,Online,,0,Damaged in transit
+ORD-10184,2024-03-15,Wireless Mouse M200,Electronics,35,29.07,1017.45,East,Fatima Al-Hassan,Wholesale,Net 30,0,Return pending
+ORD-10052,2024-03-18,Wireless Mouse M200,Electronics,38,25.85,982.3,North,,Retail,Check,0,Rush order
+ORD-10337,2024-03-20,Laptop Pro 15,Electronics,50,1235.4,61770.0,North,Fatima Al-Hassan,Online,Net 30,0,Return pending
+ORD-10108,2024-03-21,Keyboard Mechanical,Electronics,23,155.16,3568.68,East,Sarah Williams,Wholesale,Net 30,0,
+ORD-10021,2024-03-28,Webcam HD 1080p,Electronics,17,71.87,1221.79,South,Maria Rodriguez,Wholesale,,0,
+ORD-10064,2024-03-28,Webcam HD 1080p,Electronics,35,71.78,2512.3,West,Carlos Mendez,Corporate,Credit Card,5,
+ORD-10300,2024-03-29,Printer Paper 5000ct,Office Supplies,37,32.37,1197.69,West,Robert Johnson,Retail,Paypal,0,VIP client
+ORD-10312,2024-03-31,Desk Lamp LED,Office Supplies,42,43.59,1830.78,West,Sarah Williams,Wholesale,Wire Transfer,10,
+ORD-10395,2024-04-01,Wireless Mouse M200,Electronics,34,26.43,898.62,South,Maria Rodriguez,Retail,Credit Card,5,
+ORD-10160,2024-04-06,Laptop Pro 15,Electronics,41,1211.59,49675.19,South,Thomas Brown,Corporate,Credit Card,10,Customer complaint
+ORD-10177,2024-04-06,Standing Desk L-Shape,Furniture,9,769.3,6923.7,South,Elena Vasquez,Corporate,,0,
+ORD-10319,2024-04-08,Wireless Mouse M200,Electronics,41,29.59,1213.19,,Sarah Williams,Retail,Wire Transfer,0,Damaged in transit
+ORD-10050,2024-04-09,Standing Desk L-Shape,Furniture,46,793.66,36508.36,South,James Chen,Wholesale,Wire Transfer,10,
+ORD-10327,2024-04-09,Standing Desk L-Shape,Furniture,17,859.6,14613.2,,David Kim,Wholesale,Check,0,
+ORD-10060,2024-04-12,Whiteboard Markers 12pk,Office Supplies,7,8.56,59.92,North,Aisha Patel,Corporate,Credit Card,15,
+ORD-10252,2024-04-12,Wireless Mouse M200,Electronics,26,29.09,756.34,South,Sarah Williams,Retail,Wire Transfer,0,
+ORD-10175,2024-04-13,Desk Lamp LED,Office Supplies,8,42.95,343.6,South,James Chen,Online,Credit Card,0,
+ORD-10305,2024-04-13,Notebook A5 Premium,Office Supplies,44,14.07,619.08,North,Carlos Mendez,Retail,Check,0,VIP client
+ORD-10075,2024-04-14,Keyboard Mechanical,Electronics,43,150.96,6491.28,West,James Chen,Corporate,,0,Return pending
+ORD-10332,2024-04-14,Webcam HD 1080p,Electronics,37,76.58,2833.46,South,Elena Vasquez,Online,Wire Transfer,0,
+ORD-10090,2024-04-17,Monitor Arm Dual,Furniture,33,113.38,3741.54,North,James Chen,Corporate,Paypal,0,
+ORD-10167,2024-04-17,Webcam HD 1080p,Electronics,50,81.19,4059.5,West,Robert Johnson,Online,Wire Transfer,10,
+ORD-10014,2024-04-18,USB-C Hub 7-Port,Electronics,28,45.24,1266.72,North,Sarah Williams,Corporate,Paypal,5,
+ORD-10041,2024-04-21,Desk Lamp LED,Office Supplies,35,48.71,1704.85,South,Aisha Patel,Wholesale,Paypal,20,Return pending
+ORD-10497,2024-04-25,USB-C Hub 7-Port,Electronics,19,53.38,1014.22,Central,Robert Johnson,Online,Paypal,20,
+ORD-10481,2024-04-26,Laptop Pro 15,Electronics,15,1176.42,17646.3,North,Maria Rodriguez,Online,Net 30,0,
+ORD-10192,2024-04-27,Printer Paper 5000ct,Office Supplies,44,31.56,1388.64,South,,Online,Net 30,20,
+ORD-10288,2024-04-27,Wireless Mouse M200,Electronics,14,29.53,413.42,Central,Thomas Brown,Online,Wire Transfer,15,
+ORD-10470,2024-04-27,Wireless Mouse M200,Electronics,50,33.95,1697.5,South,Aisha Patel,Retail,Check,20,Return pending
+ORD-10100,2024-04-28,USB-C Hub 7-Port,Electronics,9,43.07,387.63,Central,James Chen,Online,Wire Transfer,0,
+ORD-10436,2024-04-28,Standing Desk L-Shape,Furniture,41,934.13,38299.33,South,Carlos Mendez,Retail,Check,0,
+ORD-10243,2024-05-03,Webcam HD 1080p,Electronics,28,77.67,2174.76,North,Fatima Al-Hassan,Retail,Credit Card,5,Customer complaint
+ORD-10129,2024-05-06,Keyboard Mechanical,Electronics,46,149.5,6877.0,North,Fatima Al-Hassan,Corporate,,0,Damaged in transit
+ORD-10441,2024-05-06,Wireless Mouse M200,Electronics,9,33.8,304.2,West,Fatima Al-Hassan,Wholesale,Check,0,
+ORD-10437,2024-05-07,Desk Lamp LED,Office Supplies,48,43.13,2070.24,North,Fatima Al-Hassan,Retail,Check,0,
+ORD-10378,2024-05-08,Desk Lamp LED,Office Supplies,16,45.65,730.4,West,David Kim,Wholesale,Wire Transfer,0,
+ORD-10057,2024-05-09,Printer Paper 5000ct,Office Supplies,46,32.61,1500.06,Central,Sarah Williams,Online,Paypal,15,VIP client
+ORD-10261,2024-05-09,Printer Paper 5000ct,Office Supplies,28,38.55,1079.4,North,Thomas Brown,Online,Net 30,20,
+ORD-10440,2024-05-11,Printer Paper 5000ct,Office Supplies,19,33.66,639.54,South,Carlos Mendez,Retail,Paypal,0,
+ORD-10450,2024-05-11,Webcam HD 1080p,Electronics,39,90.79,3540.81,North,Robert Johnson,Wholesale,Wire Transfer,0,
+ORD-10012,2024-05-12,Printer Paper 5000ct,Office Supplies,16,32.66,522.56,West,Carlos Mendez,Retail,Paypal,15,
+ORD-10384,2024-05-13,Webcam HD 1080p,Electronics,2,71.45,142.9,West,Thomas Brown,Wholesale,,20,
+ORD-10061,2024-05-14,Monitor Arm Dual,Furniture,41,138.52,5679.32,South,James Chen,Retail,Credit Card,0,Rush order
+ORD-10283,2024-05-14,Monitor Arm Dual,Furniture,3,119.02,357.06,North,Carlos Mendez,Online,Paypal,0,
+ORD-10245,2024-05-16,Webcam HD 1080p,Electronics,9,76.22,685.98,South,Sarah Williams,Retail,Net 30,0,
+ORD-10111,2024-05-17,Desk Lamp LED,Office Supplies,19,47.62,904.78,South,Robert Johnson,Online,,0,Damaged in transit
+ORD-10400,2024-05-17,Printer Paper 5000ct,Office Supplies,46,39.61,1822.06,West,Robert Johnson,Online,Check,10,
+ORD-10452,2024-05-17,Ergonomic Chair X1,Furniture,19,628.13,11934.47,North,James Chen,Corporate,Check,20,
+ORD-10230,2024-05-18,Monitor Arm Dual,Furniture,20,122.62,2452.4,South,Robert Johnson,Online,Paypal,0,Backordered
+ORD-10070,2024-05-19,Laptop Pro 15,Electronics,3,1223.69,3671.07,East,Fatima Al-Hassan,Wholesale,Paypal,0,
+ORD-10304,2024-05-19,Whiteboard Markers 12pk,Office Supplies,24,8.8,211.2,South,Sarah Williams,Corporate,Paypal,0,
+ORD-10451,2024-05-25,Keyboard Mechanical,Electronics,4,164.85,659.4,South,Thomas Brown,Retail,Credit Card,0,
+ORD-10483,2024-05-25,Notebook A5 Premium,Office Supplies,5,12.0,60.0,North,David Kim,Retail,,0,
+ORD-10016,2024-05-29,Laptop Pro 15,Electronics,4,1332.82,5331.28,North,James Chen,Wholesale,Paypal,0,Customer complaint
+ORD-10460,2024-05-31,Wireless Mouse M200,Electronics,42,32.9,1381.8,West,Thomas Brown,Corporate,Net 30,0,
+ORD-10269,2024-06-01,USB-C Hub 7-Port,Electronics,34,43.51,1479.34,South,David Kim,Online,Check,5,
+ORD-10432,2024-06-07,Whiteboard Markers 12pk,Office Supplies,21,8.75,183.75,West,Elena Vasquez,Retail,Check,15,
+ORD-10446,2024-06-10,Monitor Arm Dual,Furniture,25,127.03,3175.75,West,Fatima Al-Hassan,Corporate,Check,10,
+ORD-10105,2024-06-11,Laptop Pro 15,Electronics,21,1469.0,30849.0,East,Maria Rodriguez,Online,Check,0,
+ORD-10159,2024-06-12,Notebook A5 Premium,Office Supplies,49,13.92,682.08,North,Carlos Mendez,Online,Net 30,20,Return pending
+ORD-10115,2024-06-15,Monitor Arm Dual,Furniture,46,119.28,5486.88,East,Fatima Al-Hassan,Wholesale,Net 30,0,Rush order
+ORD-10331,2024-06-15,Standing Desk L-Shape,Furniture,5,962.24,4811.2,South,Carlos Mendez,Wholesale,Net 30,20,
+ORD-10026,2024-06-16,Laptop Pro 15,Electronics,46,1275.05,58652.3,East,David Kim,Retail,Check,10,
+ORD-10153,2024-06-20,Printer Paper 5000ct,Office Supplies,42,39.79,1671.18,West,Carlos Mendez,Wholesale,Credit Card,5,
+ORD-10434,2024-06-21,Ergonomic Chair X1,Furniture,20,594.44,11888.8,North,Aisha Patel,Wholesale,Net 30,0,
+ORD-10210,2024-06-22,USB-C Hub 7-Port,Electronics,27,45.48,1227.96,East,Fatima Al-Hassan,Online,Net 30,15,
+ORD-10007,2024-06-25,Notebook A5 Premium,Office Supplies,39,14.92,581.88,Central,David Kim,Online,Paypal,0,
+ORD-10131,2024-06-27,Ergonomic Chair X1,Furniture,4,629.52,2518.08,West,Robert Johnson,Wholesale,Credit Card,0,
+ORD-10392,2024-06-29,Whiteboard Markers 12pk,Office Supplies,48,9.63,462.24,East,,Retail,Check,0,
+ORD-10264,2024-06-30,Webcam HD 1080p,Electronics,48,89.44,4293.12,South,Maria Rodriguez,Online,Wire Transfer,10,VIP client
+ORD-10375,2024-06-30,Keyboard Mechanical,Electronics,49,157.68,7726.32,West,Robert Johnson,Corporate,Paypal,5,Customer complaint
+ORD-10174,2024-07-03,Desk Lamp LED,Office Supplies,7,49.04,343.28,North,Robert Johnson,Online,Net 30,20,
+ORD-10193,2024-07-03,Keyboard Mechanical,Electronics,26,131.2,3411.2,East,Fatima Al-Hassan,Wholesale,,15,
+ORD-10367,2024-07-03,Webcam HD 1080p,Electronics,30,89.4,2682.0,East,Fatima Al-Hassan,Wholesale,Net 30,15,
+ORD-10147,2024-07-04,Standing Desk L-Shape,Furniture,25,768.48,19212.0,West,Fatima Al-Hassan,Corporate,Net 30,0,
+ORD-10343,2024-07-04,Laptop Pro 15,Electronics,22,1186.5,26103.0,,Maria Rodriguez,Retail,Check,0,
+ORD-10142,2024-07-06,Wireless Mouse M200,Electronics,44,34.17,1503.48,Central,Fatima Al-Hassan,Wholesale,Credit Card,0,Damaged in transit
+ORD-10410,2024-07-06,Desk Lamp LED,Office Supplies,24,49.9,1197.6,North,James Chen,Corporate,Paypal,0,Rush order
+ORD-10179,2024-07-10,Desk Lamp LED,Office Supplies,8,41.87,334.96,Central,Elena Vasquez,Wholesale,Check,0,
+ORD-10359,2024-07-10,Whiteboard Markers 12pk,Office Supplies,32,9.4,300.8,South,Robert Johnson,Corporate,Paypal,0,
+ORD-10402,2024-07-10,Keyboard Mechanical,Electronics,25,167.83,4195.75,,Maria Rodriguez,Retail,Net 30,5,
+ORD-10114,2024-07-18,Webcam HD 1080p,Electronics,34,76.26,2592.84,Central,James Chen,Wholesale,Check,0,Rush order
+ORD-10328,2024-07-18,Ergonomic Chair X1,Furniture,34,631.93,21485.62,East,James Chen,Retail,Credit Card,0,Rush order
+ORD-10044,2024-07-20,Webcam HD 1080p,Electronics,38,76.85,2920.3,,Aisha Patel,Retail,Wire Transfer,15,
+ORD-10122,2024-07-20,Desk Lamp LED,Office Supplies,36,40.88,1471.68,Central,Thomas Brown,Wholesale,Credit Card,20,
+ORD-10027,2024-07-21,Monitor Arm Dual,Furniture,26,137.68,3579.68,Central,Aisha Patel,Retail,Check,10,Backordered
+ORD-10043,2024-07-22,Ergonomic Chair X1,Furniture,47,582.19,27362.93,West,James Chen,Wholesale,Paypal,5,Damaged in transit
+ORD-10227,2024-07-23,Keyboard Mechanical,Electronics,5,131.41,657.05,North,Thomas Brown,Corporate,Credit Card,20,
+ORD-10453,2024-07-24,Whiteboard Markers 12pk,Office Supplies,3,7.3,21.9,West,Aisha Patel,Corporate,Paypal,0,
+ORD-10085,2024-07-26,Printer Paper 5000ct,Office Supplies,45,32.16,1447.2,West,Maria Rodriguez,Retail,Paypal,0,Return pending
+ORD-10326,2024-07-26,Laptop Pro 15,Electronics,32,1380.57,44178.24,East,Robert Johnson,Wholesale,Credit Card,0,
+ORD-10340,2024-07-28,Notebook A5 Premium,Office Supplies,42,13.27,557.34,North,Elena Vasquez,Retail,Credit Card,20,
+ORD-10421,2024-07-28,Webcam HD 1080p,Electronics,36,84.91,3056.76,Central,Robert Johnson,Wholesale,Wire Transfer,15,
+ORD-10169,2024-07-30,USB-C Hub 7-Port,Electronics,42,51.68,2170.56,West,Maria Rodriguez,Online,Wire Transfer,5,
+ORD-10277,2024-08-03,Ergonomic Chair X1,Furniture,8,541.74,4333.92,North,James Chen,Corporate,Check,15,
+ORD-10386,2024-08-05,Keyboard Mechanical,Electronics,24,132.58,3181.92,West,James Chen,Retail,,0,
+ORD-10489,2024-08-05,Ergonomic Chair X1,Furniture,34,586.01,19924.34,West,James Chen,Online,Check,10,
+ORD-10335,2024-08-08,Printer Paper 5000ct,Office Supplies,33,35.58,1174.14,South,Aisha Patel,Wholesale,Wire Transfer,10,Damaged in transit
+ORD-10454,2024-08-08,Webcam HD 1080p,Electronics,36,84.44,3039.84,East,Thomas Brown,Online,Check,15,
+ORD-10287,2024-08-10,Laptop Pro 15,Electronics,16,1121.82,17949.12,South,Sarah Williams,Corporate,Net 30,0,Damaged in transit
+ORD-10459,2024-08-10,Standing Desk L-Shape,Furniture,4,797.38,3189.52,East,James Chen,Corporate,Paypal,5,
+ORD-10089,2024-08-16,Whiteboard Markers 12pk,Office Supplies,49,8.65,423.85,South,James Chen,Corporate,Check,10,
+ORD-10387,2024-08-16,Webcam HD 1080p,Electronics,41,80.93,3318.13,West,Fatima Al-Hassan,Online,Paypal,15,Damaged in transit
+ORD-10380,2024-08-17,Wireless Mouse M200,Electronics,14,32.84,459.76,West,Aisha Patel,Corporate,Wire Transfer,5,Return pending
+ORD-10324,2024-08-18,Ergonomic Chair X1,Furniture,1,683.25,683.25,South,Robert Johnson,Online,Credit Card,0,
+ORD-10125,2024-08-20,Webcam HD 1080p,Electronics,9,91.51,823.59,Central,Carlos Mendez,Retail,Net 30,0,Rush order
+ORD-10431,2024-08-20,Laptop Pro 15,Electronics,39,1355.1,52848.9,North,Robert Johnson,Retail,Net 30,20,Backordered
+ORD-10058,2024-08-24,Laptop Pro 15,Electronics,19,1388.15,26374.85,East,,Corporate,Check,5,Customer complaint
+ORD-10291,2024-08-26,Whiteboard Markers 12pk,Office Supplies,50,8.19,409.5,East,Carlos Mendez,Online,Net 30,20,VIP client
+ORD-10281,2024-08-27,Desk Lamp LED,Office Supplies,38,43.72,1661.36,Central,Sarah Williams,Corporate,Wire Transfer,10,
+ORD-10146,2024-08-28,Standing Desk L-Shape,Furniture,18,737.18,13269.24,,Elena Vasquez,Online,Paypal,20,
+ORD-10456,2024-08-29,Ergonomic Chair X1,Furniture,16,625.61,10009.76,East,Maria Rodriguez,Online,Credit Card,0,
+ORD-10073,2024-09-02,Ergonomic Chair X1,Furniture,22,648.3,14262.6,,Maria Rodriguez,Retail,Check,5,Return pending
+ORD-10181,2024-09-03,Desk Lamp LED,Office Supplies,23,45.44,1045.12,Central,Fatima Al-Hassan,Retail,Wire Transfer,20,
+ORD-10211,2024-09-03,Standing Desk L-Shape,Furniture,12,728.29,8739.48,Central,Thomas Brown,Wholesale,Credit Card,5,Customer complaint
+ORD-10439,2024-09-05,Webcam HD 1080p,Electronics,12,86.34,1036.08,East,David Kim,Online,Wire Transfer,0,
+ORD-10091,2024-09-11,Desk Lamp LED,Office Supplies,42,40.79,1713.18,North,,Wholesale,Credit Card,5,
+ORD-10116,2024-09-11,Webcam HD 1080p,Electronics,40,85.28,3411.2,North,Thomas Brown,Wholesale,Net 30,20,
+ORD-10396,2024-09-11,Keyboard Mechanical,Electronics,8,131.38,1051.04,North,Sarah Williams,Online,Paypal,0,
+ORD-10235,2024-09-14,Desk Lamp LED,Office Supplies,1,41.27,41.27,West,Robert Johnson,Wholesale,Paypal,10,
+ORD-10353,2024-09-14,Notebook A5 Premium,Office Supplies,26,14.07,365.82,,Thomas Brown,Retail,Net 30,0,
+ORD-10127,2024-09-18,Keyboard Mechanical,Electronics,14,145.96,2043.44,Central,Fatima Al-Hassan,Corporate,Net 30,20,Return pending
+ORD-10217,2024-09-18,Desk Lamp LED,Office Supplies,21,50.68,1064.28,South,James Chen,Online,Check,0,
+ORD-10293,2024-09-18,Printer Paper 5000ct,Office Supplies,28,35.67,998.76,Central,Robert Johnson,Online,Net 30,0,VIP client
+ORD-10255,2024-09-19,USB-C Hub 7-Port,Electronics,36,55.87,2011.32,West,James Chen,Online,Wire Transfer,15,VIP client
+ORD-10318,2024-09-19,Webcam HD 1080p,Electronics,16,80.39,1286.24,Central,Elena Vasquez,Retail,Wire Transfer,0,Damaged in transit
+ORD-10214,2024-09-20,Printer Paper 5000ct,Office Supplies,31,29.75,922.25,North,Sarah Williams,Wholesale,Credit Card,15,
+ORD-10124,2024-09-23,Desk Lamp LED,Office Supplies,21,40.44,849.24,Central,Thomas Brown,Corporate,Credit Card,15,Return pending
+ORD-10344,2024-09-24,Standing Desk L-Shape,Furniture,13,922.66,11994.58,West,,Online,Credit Card,0,Damaged in transit
+ORD-10229,2024-09-25,USB-C Hub 7-Port,Electronics,18,48.53,873.54,West,,Corporate,Check,15,
+ORD-10165,2024-09-27,Laptop Pro 15,Electronics,26,1234.56,32098.56,Central,Aisha Patel,Wholesale,Paypal,15,Rush order
+ORD-10096,2024-10-01,USB-C Hub 7-Port,Electronics,12,54.96,659.52,West,Carlos Mendez,Online,Paypal,5,Customer complaint
+ORD-10360,2024-10-05,Ergonomic Chair X1,Furniture,36,559.13,20128.68,North,David Kim,Wholesale,Credit Card,10,Return pending
+ORD-10370,2024-10-05,Printer Paper 5000ct,Office Supplies,10,31.74,317.4,,Sarah Williams,Retail,Paypal,20,
+ORD-10272,2024-10-06,Webcam HD 1080p,Electronics,5,73.05,365.25,South,Elena Vasquez,Retail,Wire Transfer,0,
+ORD-10019,2024-10-07,Monitor Arm Dual,Furniture,19,116.64,2216.16,North,Aisha Patel,Retail,Net 30,0,VIP client
+ORD-10495,2024-10-07,Laptop Pro 15,Electronics,22,1108.06,24377.32,Central,Maria Rodriguez,Corporate,Paypal,0,Customer complaint
+ORD-10364,2024-10-09,Desk Lamp LED,Office Supplies,37,44.95,1663.15,East,Maria Rodriguez,Retail,Paypal,0,Backordered
+ORD-10201,2024-10-13,Laptop Pro 15,Electronics,15,1316.19,19742.85,East,Carlos Mendez,Wholesale,,0,
+ORD-10350,2024-10-14,Standing Desk L-Shape,Furniture,29,911.56,26435.24,South,Maria Rodriguez,Online,Net 30,5,Customer complaint
+ORD-10117,2024-10-19,Whiteboard Markers 12pk,Office Supplies,41,8.61,353.01,West,Maria Rodriguez,Corporate,Paypal,0,
+ORD-10256,2024-10-20,Laptop Pro 15,Electronics,33,1191.85,39331.05,West,Robert Johnson,Corporate,Paypal,0,
+ORD-10403,2024-10-20,Notebook A5 Premium,Office Supplies,5,14.13,70.65,North,,Retail,Paypal,0,Backordered
+ORD-10088,2024-10-22,Monitor Arm Dual,Furniture,47,147.86,6949.42,East,Sarah Williams,Wholesale,Credit Card,0,
+ORD-10109,2024-10-22,USB-C Hub 7-Port,Electronics,5,46.03,230.15,West,David Kim,Retail,,0,
+ORD-10157,2024-10-22,Wireless Mouse M200,Electronics,32,33.1,1059.2,South,Thomas Brown,Online,Credit Card,0,VIP client
+ORD-10207,2024-10-22,Notebook A5 Premium,Office Supplies,24,13.72,329.28,North,Carlos Mendez,Corporate,Wire Transfer,0,Return pending
+ORD-10280,2024-10-23,Whiteboard Markers 12pk,Office Supplies,36,7.49,269.64,Central,Aisha Patel,Retail,Credit Card,0,
+ORD-10148,2024-10-24,Ergonomic Chair X1,Furniture,17,545.69,9276.73,South,Aisha Patel,Retail,Credit Card,0,Backordered
+ORD-10401,2024-10-24,Laptop Pro 15,Electronics,41,1493.82,61246.62,West,Carlos Mendez,Retail,Paypal,5,Damaged in transit
+ORD-10486,2024-10-24,Notebook A5 Premium,Office Supplies,50,12.61,630.5,West,Aisha Patel,Wholesale,Check,0,
+ORD-10150,2024-10-26,Standing Desk L-Shape,Furniture,25,840.4,21010.0,West,Robert Johnson,Wholesale,Check,15,
+ORD-10472,2024-10-26,USB-C Hub 7-Port,Electronics,16,50.24,803.84,West,Sarah Williams,Wholesale,,15,Damaged in transit
+ORD-10194,2024-10-27,Desk Lamp LED,Office Supplies,41,48.55,1990.55,South,Carlos Mendez,Corporate,Credit Card,0,
+ORD-10037,2024-10-29,Ergonomic Chair X1,Furniture,42,521.48,21902.16,Central,Carlos Mendez,Corporate,Credit Card,5,
+ORD-10237,2024-10-29,Webcam HD 1080p,Electronics,46,90.84,4178.64,Central,David Kim,Wholesale,Credit Card,0,Damaged in transit
+ORD-10484,2024-11-06,Wireless Mouse M200,Electronics,30,32.97,989.1,East,Thomas Brown,Online,Net 30,0,Backordered
+ORD-10049,2024-11-07,Ergonomic Chair X1,Furniture,41,547.07,22429.87,North,,Corporate,Check,0,Customer complaint
+ORD-10275,2024-11-07,Whiteboard Markers 12pk,Office Supplies,25,8.22,205.5,Central,Sarah Williams,Online,Credit Card,0,
+ORD-10490,2024-11-08,Printer Paper 5000ct,Office Supplies,2,30.94,61.88,North,Elena Vasquez,Online,Check,0,
+ORD-10054,2024-11-09,Notebook A5 Premium,Office Supplies,45,12.97,583.65,East,David Kim,Corporate,Net 30,0,
+ORD-10236,2024-11-09,Desk Lamp LED,Office Supplies,7,38.35,268.45,North,James Chen,Online,Check,0,VIP client
+ORD-10383,2024-11-09,Notebook A5 Premium,Office Supplies,28,13.17,368.76,East,Sarah Williams,Wholesale,Wire Transfer,0,
+ORD-10428,2024-11-12,Ergonomic Chair X1,Furniture,36,636.22,22903.92,Central,Fatima Al-Hassan,Retail,Credit Card,20,
+ORD-10154,2024-11-13,Monitor Arm Dual,Furniture,4,134.59,538.36,North,,Retail,Credit Card,10,Damaged in transit
+ORD-10427,2024-11-13,USB-C Hub 7-Port,Electronics,46,52.88,2432.48,North,Thomas Brown,Corporate,Check,15,Rush order
+ORD-10397,2024-11-14,Standing Desk L-Shape,Furniture,50,830.4,41520.0,East,Elena Vasquez,Online,Credit Card,10,VIP client
+ORD-10458,2024-11-14,Monitor Arm Dual,Furniture,32,130.1,4163.2,West,Robert Johnson,Retail,Net 30,5,Damaged in transit
+ORD-10135,2024-11-16,Printer Paper 5000ct,Office Supplies,21,30.65,643.65,South,Aisha Patel,Wholesale,Paypal,10,Return pending
+ORD-10140,2024-11-19,Desk Lamp LED,Office Supplies,4,45.79,183.16,East,Carlos Mendez,Retail,,20,
+ORD-10155,2024-11-21,Laptop Pro 15,Electronics,33,1422.12,46929.96,South,Fatima Al-Hassan,Online,Check,20,
+ORD-10448,2024-11-21,Webcam HD 1080p,Electronics,24,72.29,1734.96,Central,James Chen,Wholesale,Paypal,20,
+ORD-10394,2024-11-22,Webcam HD 1080p,Electronics,38,77.38,2940.44,South,Fatima Al-Hassan,Retail,Credit Card,0,
+ORD-10068,2024-11-23,USB-C Hub 7-Port,Electronics,49,56.99,2792.51,North,Fatima Al-Hassan,Corporate,Check,10,
+ORD-10172,2024-11-24,Laptop Pro 15,Electronics,22,1357.7,29869.4,South,Fatima Al-Hassan,Corporate,Wire Transfer,20,Rush order
+ORD-10253,2024-11-25,Desk Lamp LED,Office Supplies,31,49.08,1521.48,Central,Sarah Williams,Corporate,Credit Card,20,
+ORD-10404,2024-11-25,Webcam HD 1080p,Electronics,43,80.54,3463.22,North,Sarah Williams,Retail,Paypal,0,Customer complaint
+ORD-10406,2024-11-25,Wireless Mouse M200,Electronics,13,29.33,381.29,South,Thomas Brown,Online,Credit Card,0,VIP client
+ORD-10170,2024-11-26,Monitor Arm Dual,Furniture,26,128.55,3342.3,North,James Chen,Corporate,Credit Card,0,
+ORD-10381,2024-11-26,Standing Desk L-Shape,Furniture,37,923.97,34186.89,,Thomas Brown,Corporate,,10,
+ORD-10139,2024-11-27,Monitor Arm Dual,Furniture,34,127.72,4342.48,Central,Maria Rodriguez,Wholesale,Net 30,20,
+ORD-10267,2024-11-30,Standing Desk L-Shape,Furniture,29,766.84,22238.36,West,Fatima Al-Hassan,Wholesale,Wire Transfer,10,
+ORD-10393,2024-11-30,Webcam HD 1080p,Electronics,20,91.07,1821.4,Central,Aisha Patel,Online,Check,0,VIP client
+ORD-10266,2024-12-02,Notebook A5 Premium,Office Supplies,25,12.66,316.5,,Robert Johnson,Online,Net 30,5,Backordered
+ORD-10462,2024-12-02,Whiteboard Markers 12pk,Office Supplies,10,7.83,78.3,East,Carlos Mendez,Online,,0,VIP client
+ORD-10371,2024-12-04,Laptop Pro 15,Electronics,20,1468.6,29372.0,North,Aisha Patel,Online,Wire Transfer,15,Backordered
+ORD-10045,2024-12-07,Keyboard Mechanical,Electronics,35,170.28,5959.8,Central,Thomas Brown,Retail,Wire Transfer,10,Customer complaint
+ORD-10039,2024-12-08,Keyboard Mechanical,Electronics,13,130.91,1701.83,Central,Thomas Brown,Online,Net 30,20,
+ORD-10307,2024-12-08,Whiteboard Markers 12pk,Office Supplies,12,8.67,104.04,South,Elena Vasquez,Wholesale,Wire Transfer,0,
+ORD-10423,2024-12-10,Desk Lamp LED,Office Supplies,24,49.05,1177.2,North,Sarah Williams,Retail,Credit Card,0,VIP client
+ORD-10438,2024-12-10,USB-C Hub 7-Port,Electronics,21,49.41,1037.61,East,,Online,Check,0,Backordered
+ORD-10166,2024-12-12,Notebook A5 Premium,Office Supplies,21,12.18,255.78,West,Elena Vasquez,Retail,Net 30,5,Rush order
+ORD-10407,2024-12-14,USB-C Hub 7-Port,Electronics,49,48.72,2387.28,Central,Sarah Williams,Corporate,Wire Transfer,0,
+ORD-10417,2024-12-14,Printer Paper 5000ct,Office Supplies,26,34.77,904.02,North,Maria Rodriguez,Corporate,Wire Transfer,0,
+ORD-10297,2024-12-16,Laptop Pro 15,Electronics,39,1304.1,50859.9,South,Maria Rodriguez,Retail,Check,20,
+ORD-10065,2024-12-17,Desk Lamp LED,Office Supplies,23,46.01,1058.23,North,Maria Rodriguez,Corporate,Check,5,
+ORD-10112,2024-12-18,Standing Desk L-Shape,Furniture,11,902.95,9932.45,South,Robert Johnson,Online,Net 30,15,
+ORD-10390,2024-12-18,Monitor Arm Dual,Furniture,13,120.68,1568.84,North,Thomas Brown,Corporate,Paypal,0,Customer complaint
+ORD-10004,2024-12-19,Monitor Arm Dual,Furniture,14,136.63,1912.82,South,Elena Vasquez,Wholesale,,0,Customer complaint
+ORD-10247,2024-12-19,Wireless Mouse M200,Electronics,36,27.77,999.72,West,James Chen,Online,,0,
+ORD-10419,2024-12-21,USB-C Hub 7-Port,Electronics,24,51.89,1245.36,,Maria Rodriguez,Corporate,Check,5,
+ORD-10294,2024-12-23,Standing Desk L-Shape,Furniture,37,809.36,29946.32,West,Sarah Williams,Wholesale,Net 30,20,Return pending
+ORD-10295,2024-12-24,Printer Paper 5000ct,Office Supplies,40,37.06,1482.4,South,Thomas Brown,Retail,Credit Card,10,Customer complaint
+ORD-10046,2024-12-26,Monitor Arm Dual,Furniture,12,122.28,1467.36,Central,Sarah Williams,Corporate,Credit Card,0,Damaged in transit
+ORD-10086,2024-12-27,Desk Lamp LED,Office Supplies,28,45.99,1287.72,North,Sarah Williams,Corporate,Check,0,
+ORD-10479,2024-12-28,Whiteboard Markers 12pk,Office Supplies,9,7.44,66.96,East,Sarah Williams,Online,Check,20,Damaged in transit
+ORD-10475,2024-12-31,Webcam HD 1080p,Electronics,32,70.84,2266.88,,Elena Vasquez,Wholesale,Check,5,
+ORD-10477,2024-12-31,Keyboard Mechanical,Electronics,26,158.4,4118.4,Central,Maria Rodriguez,Wholesale,Paypal,15,
