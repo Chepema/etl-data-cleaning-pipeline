@@ -58,7 +58,7 @@ A 9-stage pipeline that systematically resolves every data quality issue:
 
 ### Clean Data Overview
 
-![Clean Data Overview](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/clean_data_overview.png))
+![Clean Data Overview](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/clean_data_overview.png)
 
 ---
 
@@ -179,7 +179,7 @@ The modular stage-based architecture means you can enable, disable, or reorder s
 
 ## About
 
-Built by **[Your Name]** — Data Transformation Manager with 8+ years in project management, IT operations, and international development.
+Built by **José María Bolaños Corredera — Data Transformation Manager with 8+ years in project management, IT operations, and international development.
 
 This pipeline reflects the same approach I used to design data systems at UNICEF (tracking $20M+ in contracts) and in enterprise retail analytics at Best Buy/Accenture — scaled down to a reproducible, open-source template.
 
