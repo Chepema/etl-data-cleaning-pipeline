@@ -44,7 +44,7 @@ A 9-stage pipeline that systematically resolves every data quality issue:
 
 ## Results
 
-![Data Quality Comparison](screenshots/quality_comparison.png)
+![Data Quality Comparison]((https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/quality_comparison.png)
 
 | Metric | Value |
 |--------|-------|
@@ -58,7 +58,7 @@ A 9-stage pipeline that systematically resolves every data quality issue:
 
 ### Clean Data Overview
 
-![Clean Data Overview](screenshots/clean_data_overview.png)
+![Clean Data Overview](https://github.com/Chepema/etl-data-cleaning-pipeline/blob/main/clean_data_overview.png))
 
 ---
 
